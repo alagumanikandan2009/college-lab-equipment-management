@@ -1,0 +1,10 @@
+{
+  "description": "Streamline college lab equipment management by tracking availability, faults, and maintenance, ensuring efficient use and reducing downtime.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
